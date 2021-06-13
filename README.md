@@ -3,7 +3,6 @@
 ### Marlo Henrique👋
 
 Olá, meu nome é Marlo, sou Engenheiro de Software pela UFC. I love games!💕
-### Abstract
 
 - 👨‍💻 Analista de Automação PL na **Keeggo|Banco Pan**.
 - 🌱 Formado em Engenharia de Software.

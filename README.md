@@ -1,3 +1,17 @@
+
+
+### Hi there 👋
+
+
+### Abstract
+
+- 👨‍💻 Analista de Automação PL na **Keeggo|Banco Pan**.
+- 🌱 Formado em Engenharia de Software.
+- 💙 Interesse: Java, Spring Boot, Cypress, Appium, Selenium, Cucumber, Rest Assured, Swagger, Design Pattern.
+- :video_game: Carregando e sendo carregado no Valorant/Paladins hehehe.
+- 💌 Quer conversar ou trocar uma ideia? chama🔥⤵️
+
+
 <p align="center">
 </p>
 </br>
@@ -17,7 +31,3 @@
     />
   </a>
 </p>
-
-### Hi there 👋
-
-

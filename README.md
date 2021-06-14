@@ -5,7 +5,7 @@
 Olá, meu nome é Marlo, sou Engenheiro de Software pela UFC. I love games!💕
 
 - 👨‍💻 Analista de Automação PL na **Keeggo|Banco Pan**.
-- 🌱 Formado em Engenharia de Software.
+- 👨‍🎓  Formado em Engenharia de Software.
 - 💙 Interesse: Java, Spring Boot, Cypress, Appium, Selenium, Cucumber, Rest Assured, Swagger, Design Pattern.
 - :video_game: Carregando e sendo carregado no Valorant/Paladins hehehe.
 - 💌 Quer conversar ou trocar uma ideia? chama🔥⤵️

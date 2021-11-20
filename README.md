@@ -2,13 +2,13 @@
 
 ### Marlo Henrique👋
 
-Olá, meu nome é Marlo, sou Engenheiro de Software pela UFC. I love games!💕
+Hi, my name is Marlo, I'm a Software Engineer at UFC and I've been working in the area of quality and testing for 3 years.💕
 
-- 👨‍💻 Analista de Automação PL na **Keeggo|Banco Pan**.
-- 👨‍🎓  Formado em Engenharia de Software.
-- 💙 Interesse: Java, Spring Boot, Cypress, Appium, Selenium, Cucumber, Rest Assured, Swagger, Design Pattern.
-- :video_game: Carregando e sendo carregado no Valorant/Paladins hehehe.
-- 💌 Quer conversar ou trocar uma ideia? chama🔥⤵️
+- 👨‍💻 Automation Analyst at **Zup**🚀.
+- 👨‍🎓 Graduated in Software Engineering.
+- 💙 Interest: Java, Spring Boot, Cypress, Appium, Selenium, Cucumber, Rest Assured, Swagger, Design Pattern and cloud tests using browsertack.
+- 🎮 Loading and loading in Valorant/Paladins hehehe.
+- 💌 Want to chat or exchange an idea? ⤵️
 
 ## Skills :nerd_face:
 <p align="center">
